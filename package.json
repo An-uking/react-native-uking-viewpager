@@ -26,7 +26,6 @@
   },
   "homepage": "https://github.com/An-uking/react-native-uking-viewpager#readme",
   "dependencies": {
-    "react-timer-mixin": "^0.13.3",
     "react-native-smart-timer-enhance":"^1.0.3",
     "warning": "^2.1.0"
   }
