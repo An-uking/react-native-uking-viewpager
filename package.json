@@ -1,0 +1,33 @@
+{
+  "name": "react-native-uking-viewpager",
+  "version": "0.0.1",
+  "description": "ViewPager componnent for React Native",
+  "main": "ViewPager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/An-uking/react-native-uking-viewpager.git"
+  },
+  "keywords": [
+    "react-native-component",
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "viewpager",
+    "pager"
+  ],
+  "author": "uking",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/An-uking/react-native-uking-viewpager/issues"
+  },
+  "homepage": "https://github.com/An-uking/react-native-uking-viewpager#readme",
+  "dependencies": {
+    "react-timer-mixin": "^0.13.3",
+    "react-native-smart-timer-enhance":"^1.0.3",
+    "warning": "^2.1.0"
+  }
+}
